@@ -1,0 +1,17 @@
+.scrollable-div {
+  background-color: lightskyblue;
+  overflow-x: scroll;
+  white-space: nowrap;
+  margin: 20px;
+  text-align: justify;
+  padding: 20px;
+}
+
+.temp-div {
+  background-color: lightcyan;
+  overflow-x: scroll;
+  white-space: nowrap;
+  margin: 20px;
+  text-align: justify;
+  padding: 20px;
+}
