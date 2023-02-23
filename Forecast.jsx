@@ -11,10 +11,6 @@ function Forecast({ title, items }) {
       <hr className="my-2" />
 
       <div className="flex flex-row items-center justify-between text-black">
-        {/* this commented code is what I teach during the video
-        it has missing key and will show error in browser console
-        so use the code below, what I have done is just added index to loop and
-        key attribute to the div element */}
 
         {/* {items.map((item) => (
           <div className="flex flex-col items-center justify-center">
